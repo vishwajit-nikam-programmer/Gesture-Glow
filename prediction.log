@@ -1,0 +1,12 @@
+2025-05-24 16:58:41,363 - INFO - Loading model from: C:\Users\nikam\Music\Final Code\Gesture Models\best_model_fold_5.keras
+2025-05-24 16:58:46,358 - INFO - Starting real-time gesture prediction. Press 'q' to quit.
+2025-05-24 17:02:50,825 - INFO - Prediction stopped
+2025-05-24 17:04:47,512 - INFO - Loading model from: C:\Users\nikam\Music\Final Code\Gesture Models\best_model_fold_5.keras
+2025-05-24 17:04:53,496 - INFO - Starting real-time gesture prediction. Press 'q' to quit.
+2025-05-24 17:07:28,163 - INFO - Prediction stopped
+2025-05-24 17:16:47,693 - INFO - Loading model from: C:\Users\nikam\Music\Final Code\Gesture Models\best_model_fold_5.keras
+2025-05-24 17:16:53,253 - INFO - Starting real-time gesture prediction. Press 'q' to quit.
+2025-05-24 17:17:29,363 - INFO - Prediction stopped
+2025-05-24 17:19:24,125 - INFO - Loading model from: C:\Users\nikam\Music\Final Code\Gesture Models\best_model_fold_5.keras
+2025-05-24 17:19:29,411 - INFO - Starting real-time gesture prediction. Press 'q' to quit.
+2025-05-24 17:20:28,200 - INFO - Prediction stopped
